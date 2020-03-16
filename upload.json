@@ -1,0 +1,21 @@
+{
+  "manga": [
+    {
+      "shingeki-no-kyojin": {
+        "name": "Shingeki no Kyojin",
+        "volumes": [
+          {
+            "id": 31,
+            "chapters": [
+                {
+                  "id": 127,
+                  "name": "The Night of the End",
+                  "pagesCount": 3
+                }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
